@@ -39,6 +39,7 @@ public class Application {
         readLinks = reads.stream().map(Read::getLink).collect(Collectors.toSet());
         feeds.forEach(Application::process);
 
+        JSON.defaultTimeZone = TimeZone.getTimeZone("GMT+:08:00");
         String readStr = JSON.toJSONString(reads, true);
         Files.writeString(Paths.get("src/main/resources/read.json"), readStr);
     }
