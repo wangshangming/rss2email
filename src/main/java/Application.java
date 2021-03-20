@@ -17,6 +17,10 @@ import java.util.stream.Collectors;
 
 public class Application {
 
+    static {
+        JSON.defaultTimeZone = TimeZone.getTimeZone("Asia/Shanghai");
+    }
+
     private static String username;
     private static String password;
     private static List<Read> reads;
@@ -39,7 +43,6 @@ public class Application {
         readLinks = reads.stream().map(Read::getLink).collect(Collectors.toSet());
         feeds.forEach(Application::process);
 
-        JSON.defaultTimeZone = TimeZone.getTimeZone("GMT+:08:00");
         String readStr = JSON.toJSONString(reads, true);
         Files.writeString(Paths.get("src/main/resources/read.json"), readStr);
     }

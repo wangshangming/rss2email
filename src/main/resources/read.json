@@ -373,10 +373,5 @@
 		"link":"https://draveness.me//papers-mesos",
 		"time":-61497870756000,
 		"title":"集群管理系统 Mesos 的设计原理 · NSDI '21"
-	},
-	{
-		"link":"https://draveness.me//whys-the-design-kubernetes-deprecate-docker",
-		"time":1616231529586,
-		"title":"为什么 Kubernetes 要替换 Docker"
 	}
 ]
