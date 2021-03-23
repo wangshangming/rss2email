@@ -378,5 +378,10 @@
 		"link":"https://draveness.me//whys-the-design-kubernetes-deprecate-docker",
 		"time":"2021-03-20 05:18:23",
 		"title":"为什么 Kubernetes 要替换 Docker"
+	},
+	{
+		"link":"https://draveness.me//cloud-native-kubernetes-extension",
+		"time":"2021-03-24 02:10:57",
+		"title":"你该如何为 Kubernetes 定制特性"
 	}
 ]
