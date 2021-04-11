@@ -418,5 +418,10 @@
 		"link":"https://draveness.me//heterogeneous-computing",
 		"time":"2021-04-10 12:14:59",
 		"title":"CPU 和 GPU - 异构计算的演进与发展"
+	},
+	{
+		"link":"https://draveness.me//whys-the-design-linux-macos-fragmentation",
+		"time":"2021-04-11 10:10:51",
+		"title":"为什么 Linux 和 macOS 不需要碎片整理"
 	}
 ]
