@@ -433,5 +433,10 @@
 		"link":"https://jiekun.dev/posts/blog-writting/",
 		"time":"2021-04-16 04:13:51",
 		"title":"技术博客写作指北——素材、排版和配图"
+	},
+	{
+		"link":"https://draveness.me//kuberentes-limitations",
+		"time":"2021-04-17 10:10:29",
+		"title":"谈谈 Kubernetes 的问题和局限性"
 	}
 ]
