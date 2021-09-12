@@ -583,5 +583,15 @@
 		"link":"http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
 		"time":"2021-09-10 08:41:12",
 		"title":"科技爱好者周刊（第 175 期）：知识广度 vs 知识深度"
+	},
+	{
+		"link":"https://coolshell.cn/articles/21615.html",
+		"time":"2021-09-12 10:24:45",
+		"title":"Go编程模式 ： 泛型编程"
+	},
+	{
+		"link":"https://coolshell.cn/articles/21589.html",
+		"time":"2021-09-12 10:24:48",
+		"title":"如何做一个有质量的技术分享"
 	}
 ]
