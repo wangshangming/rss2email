@@ -598,5 +598,10 @@
 		"link":"http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
 		"time":"2021-09-17 08:41:09",
 		"title":"科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？"
+	},
+	{
+		"link":"https://jiekun.dev/posts/redis-6-acl/",
+		"time":"2021-09-20 08:18:10",
+		"title":"Redis 6.0 ACL基于Bitmap实现"
 	}
 ]
