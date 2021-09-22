@@ -603,5 +603,10 @@
 		"link":"https://jiekun.dev/posts/redis-6-acl/",
 		"time":"2021-09-20 08:18:10",
 		"title":"Redis 6.0 ACL基于Bitmap实现"
+	},
+	{
+		"link":"http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
+		"time":"2021-09-22 08:38:04",
+		"title":"俄罗斯总理的几何题"
 	}
 ]
